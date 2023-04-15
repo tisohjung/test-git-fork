@@ -1,1 +1,3 @@
-"Hello world"
+func main() {
+    print("Hello world");
+}
